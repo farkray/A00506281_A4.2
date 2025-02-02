@@ -1,0 +1,43 @@
+
+Resultados del análisis estadístico:
+========================================
+Cantidad de números analizados: 1977
+Media: 250.7840
+Mediana: 247.0000
+Moda: 230.0
+Varianza: 20785.3691
+Desviación estándar: 144.1713
+========================================
+Tiempo de ejecución: 0.0081 segundos
+
+============================================================
+Ejecución realizada el: 2025-02-02 00:00:58
+============================================================
+
+Resultados del análisis estadístico:
+========================================
+Cantidad de números analizados: 399
+Media: 241.9123
+Mediana: 239.0000
+Moda: Múltiples modas: [393.0, 170.0]
+Varianza: 21086.3056
+Desviación estándar: 145.2112
+========================================
+Tiempo de ejecución: 0.0010 segundos
+
+
+============================================================
+Ejecución realizada el: 2025-02-02 00:01:01
+============================================================
+
+Resultados del análisis estadístico:
+========================================
+Cantidad de números analizados: 1977
+Media: 250.7840
+Mediana: 247.0000
+Moda: 230.0
+Varianza: 20785.3691
+Desviación estándar: 144.1713
+========================================
+Tiempo de ejecución: 0.0010 segundos
+

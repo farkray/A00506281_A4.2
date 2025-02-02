@@ -1,0 +1,9 @@
+************* Module convertNumbers
+convertNumbers.py:66:43: C0303: Trailing whitespace (trailing-whitespace)
+convertNumbers.py:136:44: C0303: Trailing whitespace (trailing-whitespace)
+convertNumbers.py:137:60: C0303: Trailing whitespace (trailing-whitespace)
+convertNumbers.py:214:0: C0304: Final newline missing (missing-final-newline)
+
+------------------------------------------------------------------
+Your code has been rated at 9.52/10 (previous run: 5.25/10, +4.27)
+

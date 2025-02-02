@@ -1,0 +1,8 @@
+************* Module wordCount
+wordCount.py:242:0: C0304: Final newline missing (missing-final-newline)
+wordCount.py:1:0: C0103: Module name "wordCount" doesn't conform to snake_case naming style (invalid-name)
+wordCount.py:138:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+------------------------------------------------------------------
+Your code has been rated at 9.57/10 (previous run: 8.70/10, +0.87)
+

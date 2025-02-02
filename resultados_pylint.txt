@@ -1,0 +1,11 @@
+************* Module computeStatistics
+computeStatistics.py:163:0: C0303: Trailing whitespace (trailing-whitespace)
+computeStatistics.py:171:0: C0303: Trailing whitespace (trailing-whitespace)
+computeStatistics.py:175:0: C0303: Trailing whitespace (trailing-whitespace)
+computeStatistics.py:231:0: C0304: Final newline missing (missing-final-newline)
+computeStatistics.py:1:0: C0103: Module name "computeStatistics" doesn't conform to snake_case naming style (invalid-name)
+computeStatistics.py:225:11: W0718: Catching too general exception Exception (broad-exception-caught)
+
+------------------------------------------------------------------
+Your code has been rated at 9.30/10 (previous run: 9.30/10, +0.00)
+
